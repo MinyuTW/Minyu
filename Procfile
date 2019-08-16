@@ -1,1 +1,1 @@
-worker:node (FILE).js
+worker:  node index.js
