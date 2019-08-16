@@ -1,7 +1,7 @@
 const Discord = require("discord.js");
 const client = new Discord.Client();
 client.music = require("dc-music-bot-addon-chinese");
-const token = "NjExMTg1ODEwMzU5NzEzODAy.XVbXPg.m_cpFzpwfbRkvGngjqc_iBXOanc";
+const token = "NjExMTg1ODEwMzU5NzEzODAy.XVbYyA.VUiqnk46DGOdimzssJmHQqbBet4";
 client.on('ready', () => {
   console.log(`${client.user.username} 成功上線!`);
 });
