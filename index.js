@@ -14,4 +14,4 @@ client.music.start(client, {
   youtubeKey: "AIzaSyAxRS5r6jwqpIwdDmAsXlpwjUThtYYJdCM",
   botPrefix:"瘦敏"
 });
-client.login("NjEyMTA5MTk0NTQ3NjkxNTUx.XVdlTg.-6TYS5zHDBO43ZpbmRMLBnFTy1k");
+client.login(process.env.BOT_TOKEN);
